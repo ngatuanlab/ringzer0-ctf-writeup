@@ -27,7 +27,7 @@ Các nội dung bao gồm :
 
 | Tên | Điểm | Tác giả | Writeup |
 | --- | ---  | ---     | ----    |
-| Some martian message | 1 | Mr.Un1k0d3r |  |
+| Some martian message | 1 | Mr.Un1k0d3r | [writeup](cryptograhpy/1_points_some_martian_message.md) |
 
 
 
